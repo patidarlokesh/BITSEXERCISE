@@ -1,4 +1,4 @@
-
+//code for factorial of any number.. hwo to get
 
 #include <stdio.h>
 
