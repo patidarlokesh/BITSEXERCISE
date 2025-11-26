@@ -11,7 +11,7 @@ int main(){
     if(n%2 == 0){
         printf("Even Number");
     }
-    if(n%2 != 0){
+    else{
         printf("Odd Number");
     }
     
